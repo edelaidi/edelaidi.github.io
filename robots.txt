@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://edelaidi.github.io/JbV/sitemap_index.txt
+Sitemap: https://edelaidi.github.io/SVf/sitemap_index.txt
+Sitemap: https://edelaidi.github.io/Tov/sitemap_index.txt
+Sitemap: https://edelaidi.github.io/jiI/sitemap_index.txt
